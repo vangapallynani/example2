@@ -11,3 +11,9 @@ print (x+y)
 print (type(x+y))
 print (x-y)
 print (type(x-y))
+x=1
+y=1
+x is y
+x=5
+y={5,10,15,20}
+x in y
