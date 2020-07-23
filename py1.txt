@@ -5,3 +5,9 @@ x=5
 y=19.5
 print (type(x))
 print (type(y))
+x=5
+y=20
+print (x+y)
+print (type(x+y))
+print (x-y)
+print (type(x-y))
