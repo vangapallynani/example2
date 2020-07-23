@@ -11,3 +11,6 @@ print (x+y)
 print (type(x+y))
 print (x-y)
 print (type(x-y))
+x=1
+y=1
+x is y
